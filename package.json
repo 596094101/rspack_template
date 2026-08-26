@@ -21,16 +21,16 @@
   "devDependencies": {
     "@babel/plugin-syntax-jsx": "^8.0.1",
     "@babel/plugin-syntax-typescript": "^8.0.3",
-    "@rsdoctor/rspack-plugin": "^1.6.1",
-    "@rspack/cli": "2.1.8",
-    "@rspack/core": "2.1.8",
-    "@rspack/dev-server": "^2.2.0",
+    "@rsdoctor/rspack-plugin": "^1.6.3",
+    "@rspack/cli": "2.2.0",
+    "@rspack/core": "2.2.0",
+    "@rspack/dev-server": "^2.2.1",
     "@rspack/plugin-react-refresh": "^2.0.2",
     "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
+    "@types/react-dom": "^19.2.5",
     "babel-loader": "^10.1.1",
     "babel-plugin-react-compiler": "1.0.0",
-    "baseline-browser-mapping": "^2.11.13",
+    "baseline-browser-mapping": "^2.11.19",
     "react-refresh": "0.18.0",
     "typescript": "^7.0.2"
   }
